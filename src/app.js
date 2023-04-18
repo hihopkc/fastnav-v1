@@ -1,6 +1,6 @@
 export default {
     /*网站设置*/
-    title:'FastNav - 快速导航',  //网站标题
+    title:'FastNav',  //网站标题
     logoText:'',    //网站文字logo,不填则不显示
     navStyle:2,      //网址导航样式：1经典样式，2卡片样式
     connect:{       //右上角反馈按钮
